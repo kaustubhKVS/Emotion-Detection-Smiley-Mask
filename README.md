@@ -1,15 +1,17 @@
 
 https://user-images.githubusercontent.com/55958748/119653975-94004a80-be45-11eb-9ef0-fe718aef8857.mp4
 
-# Welcome to GitHub
-
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+# Emotion Detection of Human Face and Replacing it with relevant emojis
 
 ## Repositories
 
-Right now, we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
-
-This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
+This repository contains files and folder: 
+1. Inference Notebook: Emotion_Detector_v2.ipynb
+2. Training Code for Emotion Devetion Model: Train.py
+3. Testing Code for Emotion Devetion Model: Test.py
+4. Emoji directory for storing images
+5. Model file: Emo_little-h5.h5
+6. Classifier XML: haarcascade.xml
 
 ## Describe your project
 
